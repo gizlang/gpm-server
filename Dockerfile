@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.10
 
 EXPOSE 8080/tcp
 WORKDIR /app
