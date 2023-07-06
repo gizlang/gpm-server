@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 EXPOSE 8080/tcp
 WORKDIR /app
